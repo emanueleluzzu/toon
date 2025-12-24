@@ -4,6 +4,8 @@
 
 A brand new [TOON](https://github.com/toon-format/toon) (Token-Oriented Object Notation) library in C++11, mirroring the API of `json11`. TOON is designed specifically for LLM token efficiency, providing a compact yet human-readable format.
 
+A more complete project implementing TOON library can be found at [ctoon](https://github.com/MohammadRaziei/ctoon) from @MohammadRaziei. 
+
 ## Key Features
 
 - **Token Efficiency**: Designed to minimize token consumption in LLM contexts.
